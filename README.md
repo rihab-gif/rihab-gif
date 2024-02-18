@@ -43,6 +43,6 @@ Je suis actuellement étudiante en ingénierie informatique, un domaine qui me f
 ![](https://img.shields.io/badge/Machine_Learning-00758F?style=for-the-badge&logo=machine-learning&logoColor=white&animation=spin)
 
 ### 📫 Comment me joindre:
-- Email professionnel : [rihab.zammali@esprit.tn](mailto:rihab.zammali@esprit.tn)&animation=flip
-- Email personnel : [rihabzammali1@gmail.com](mailto:rihabzammali1@gmail.com)&animation=flip
-- LinkedIn : [Rihab Zammali](https://www.linkedin.com/in/rihab-zammali-779428245/)&animation=flip
+- Email professionnel : [rihab.zammali@esprit.tn](mailto:rihab.zammali@esprit.tn)
+- Email personnel : [rihabzammali1@gmail.com](mailto:rihabzammali1@gmail.com)
+- LinkedIn : [Rihab Zammali](https://www.linkedin.com/in/rihab-zammali-779428245/)
