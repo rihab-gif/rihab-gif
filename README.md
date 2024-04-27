@@ -1,10 +1,10 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
-
 # Welcome to my GitHub Profile! 👋
 
 ## I'm Rihab Zammali, a passionate computer engineering student 🚀
 
 I am currently a computer engineering student, a field that fascinates me with its ability to transform ideas into tangible realities. My passion for technology has led me to delve deeply into the realms of software development and artificial intelligence.
+
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 ### 🌱 My current journey:
 - 🖥️ Working on personal and university projects in programming and AI.
