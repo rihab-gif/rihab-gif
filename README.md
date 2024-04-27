@@ -15,7 +15,7 @@ Je suis actuellement étudiante en génie informatique, un domaine qui me fascin
 - **Cycle Préparatoire aux Études d'Ingénieur**
   - Institut Préparatoire aux Études d'Ingénieur de Sfax
 
-### :hammer_and_wrench: Compétences Techniques:
+### 🛠️ Compétences Techniques:
 #### Langages de Programmation
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&animation=spin)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&animation=spin)
